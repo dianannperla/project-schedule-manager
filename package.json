@@ -10,7 +10,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "firebase": "^10.0.0",
+    "firebase": "^10.3.0",
     "@mui/material": "^5.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
