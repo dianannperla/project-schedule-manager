@@ -1,7 +1,7 @@
 {
   "name": "project-schedule-manager",
   "version": "1.0.0",
-  "description": "Một ứng dụng giúp người dùng quản lý lịch trình hàng ngày.",
+  "description": "An application to help users manage their daily schedules.",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
